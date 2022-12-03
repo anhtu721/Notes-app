@@ -1,4 +1,8 @@
 # Notes App
+Using https to get request SERVER
+Sign in, Sign up
+CRUD Cate, priority, notes
+Edit profile
 
 
 
